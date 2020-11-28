@@ -4,6 +4,9 @@ I've designed & simulated Hollow Core Photonic Bandgap Fiber using COMSOL Multip
 # Progress Report Video:
 https://drive.google.com/file/d/1w3dVc_0CDZS6VJZYHy0z5jCkoVZxWvlc/view?usp=sharing
 
+# My Comsol design
+https://drive.google.com/drive/folders/1uBlrmYHKFJ5UmLqgjN_yR8v5CVfK86Nk?usp=sharing
+
 # Original Target to be designed:
 ![UniConverter_20201128083107](https://user-images.githubusercontent.com/69683125/100492189-15577880-3154-11eb-963c-966e41e52e80.gif)
 
